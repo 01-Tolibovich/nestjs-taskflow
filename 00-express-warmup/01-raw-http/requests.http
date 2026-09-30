@@ -1,0 +1,5 @@
+### List tasks
+GET http://localhost:3000/tasks
+
+### Unknown route -> 404
+GET http://localhost:3000/nope
